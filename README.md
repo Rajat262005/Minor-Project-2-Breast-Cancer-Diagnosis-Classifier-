@@ -1,4 +1,4 @@
-# Minor-Project-2--Breast-Cancer-Diagnosis-Classifier
+# Minor-Project-2-Breast-Cancer-Diagnosis-Classifier
 🩺 Breast Cancer Diagnosis Classifier
 A machine learning project to predict breast cancer diagnosis (benign or malignant) using the Wisconsin Breast Cancer Dataset. This version is designed to run entirely on Google Colab
 
